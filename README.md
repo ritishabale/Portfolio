@@ -1,3 +1,4 @@
+
 # 3D Portfolio Website
 
 A modern, interactive portfolio website built with Next.js 14, React Three Fiber, and Framer Motion. Features stunning 3D graphics, smooth animations, and a fully responsive design.
@@ -186,7 +187,3 @@ If you have any questions or need help, feel free to open an issue.
 ## 🌟 Show Your Support
 
 Give a ⭐️ if you like this project!
-
----
-
-Made with ❤️ and React Three Fiber
