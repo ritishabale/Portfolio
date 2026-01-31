@@ -3,17 +3,17 @@
 
 A modern, interactive portfolio website built with Next.js 14, React Three Fiber, and Framer Motion. Features stunning 3D graphics, smooth animations, and a fully responsive design.
 
-## ✨ Features
+##  Features
 
-- 🎨 **3D Graphics**: Interactive 3D elements powered by Three.js and React Three Fiber
-- 🌈 **Smooth Animations**: Beautiful transitions using Framer Motion
-- 🌓 **Dark/Light Mode**: Theme switching with next-themes
-- 📱 **Fully Responsive**: Mobile-first design that works on all devices
-- ⚡ **Fast Performance**: Optimized with Next.js 14
-- 🎯 **Modern UI**: Glassmorphism and neon effects
-- 🔧 **TypeScript**: Fully typed for better development experience
+-  **3D Graphics**: Interactive 3D elements powered by Three.js and React Three Fiber
+-  **Smooth Animations**: Beautiful transitions using Framer Motion
+-  **Dark/Light Mode**: Theme switching with next-themes
+-  **Fully Responsive**: Mobile-first design that works on all devices
+-  **Fast Performance**: Optimized with Next.js 14
+-  **Modern UI**: Glassmorphism and neon effects
+-  **TypeScript**: Fully typed for better development experience
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Next.js 14
 - **UI Library**: React 18
@@ -24,7 +24,7 @@ A modern, interactive portfolio website built with Next.js 14, React Three Fiber
 - **Theme**: next-themes
 - **Language**: TypeScript
 
-## 📋 Sections
+##  Sections
 
 1. **Hero** - Animated 3D sphere with interactive elements
 2. **About** - Professional experience and statistics
@@ -32,7 +32,7 @@ A modern, interactive portfolio website built with Next.js 14, React Three Fiber
 4. **Skills** - Technical skills with animated progress bars
 5. **Contact** - Contact form and social links
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ npm run dev
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## 🏗️ Build
+##  Build
 
 Build for production:
 
@@ -78,7 +78,7 @@ Start production server:
 npm start
 ```
 
-## 📝 Customization
+##  Customization
 
 ### Personal Information
 
@@ -130,7 +130,7 @@ const inter = Inter({ subsets: ["latin"] });
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 ```
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 profile/
@@ -160,14 +160,14 @@ profile/
 └── tsconfig.json      # TypeScript configuration
 ```
 
-## 🎨 Customization Tips
+##  Customization Tips
 
 1. **Change 3D animations**: Edit the `AnimatedSphere` component in `Hero.tsx`
 2. **Modify project cards**: Update styling in `Projects.tsx`
 3. **Adjust skills display**: Customize `SkillBar` component in `Skills.tsx`
 4. **Update navbar**: Modify navigation items in `Navbar.tsx`
 
-## 🐛 Known Issues
+## Known Issues
 
 - Three.js may show warnings in development mode (safe to ignore)
 - Custom cursor is disabled on mobile devices for better UX
@@ -176,14 +176,11 @@ profile/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-## 💬 Support
+##  Support
 
 If you have any questions or need help, feel free to open an issue.
 
-## 🌟 Show Your Support
 
-Give a ⭐️ if you like this project!
+
+
